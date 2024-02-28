@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ki7/XVJsLS3bzDlYHEJbNHKLMaBAjTeUHq3qjyDJEQM64oavlxPrGtXe8Xpt72LCm1g8WzUG22wKGjGWrW8zg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\PDP\\SignalR\\SignalR-Chatbot\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.bglgroup.io/repository/bgl-nuget-beta/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
